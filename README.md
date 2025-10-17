@@ -32,7 +32,7 @@ Each persona (e.g., Sherlock Holmes, Jessica Martinez) responds to both the PHQ-
 - run_all.sh # macOS/Linux shell runner
 - requirements.txt # Python dependencies
 
-
+---
 ## ⚙️ Setup Instruction
 
 ### 1️⃣ Prerequisites
@@ -42,6 +42,10 @@ Each persona (e.g., Sherlock Holmes, Jessica Martinez) responds to both the PHQ-
 
 > 🧠 You **must set your API key** before running any scripts.
 
+create ".env" file in the derectory and define your openai api key as 
+```bash
+OPENAI_API_KEY= YOUR_API_KEY
+```
 ---
 
 ### 2️⃣ Clone the Repository
@@ -50,15 +54,15 @@ Each persona (e.g., Sherlock Holmes, Jessica Martinez) responds to both the PHQ-
 git clone https://github.com/shankakoththagoda95/Conversational-Mental-Health-AI.git
 cd Conversational-Mental-Health-AI
 ```
-
-🪟 Windows
+---
+### 🪟 Windows
 
 Run the batch file:
 
 - run_all.bat
 
-
-🍏 macOS / 🐧 Linux
+---
+### 🍏 macOS / 🐧 Linux
 
 Make the shell script executable (first time only):
 ```bash
