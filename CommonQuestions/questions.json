@@ -1,0 +1,13 @@
+{
+  "questions": [
+    { "question_id": 1, "content": "Little interest or pleasure in doing things?" },
+    { "question_id": 2, "content": "Feeling down, depressed, or hopeless?" },
+    { "question_id": 3, "content": "Trouble falling or staying asleep, or sleeping too much?" },
+    { "question_id": 4, "content": "Feeling tired or having little energy?" },
+    { "question_id": 5, "content": "Poor appetite or overeating?" },
+    { "question_id": 6, "content": "Feeling bad about yourself — or that you are a failure or have let yourself or your family down?" },
+    { "question_id": 7, "content": "Trouble concentrating on things, such as reading the newspaper or watching television?" },
+    { "question_id": 8, "content": "Moving or speaking so slowly that other people could have noticed? Or so fidgety or restless that you have been moving around a lot more than usual?" },
+    { "question_id": 9, "content": "Thoughts that you would be better off dead, or thoughts of hurting yourself in some way?" }
+  ]
+}
