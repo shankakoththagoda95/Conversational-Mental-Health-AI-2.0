@@ -1,0 +1,11 @@
+{
+  "questions": [
+    { "question_id": 1, "content": "Over the last two weeks, how often have you felt nervous, anxious, or on edge?" },
+    { "question_id": 2, "content": "Over the last two weeks, how often have you been unable to stop or control worrying?" },
+    { "question_id": 3, "content": "Over the last two weeks, how often have you worried too much about different things?" },
+    { "question_id": 4, "content": "Over the last two weeks, how often have you had trouble relaxing?" },
+    { "question_id": 5, "content": "Over the last two weeks, how often have you been so restless that it's hard to sit still?" },
+    { "question_id": 6, "content": "Over the last two weeks, how often have you become easily annoyed or irritable?" },
+    { "question_id": 7, "content": "Over the last two weeks, how often have you felt afraid as if something awful might happen?" }
+  ]
+}
