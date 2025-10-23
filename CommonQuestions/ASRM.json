@@ -1,0 +1,9 @@
+{
+  "questions": [
+    { "question_id": 1, "content": "Do you feel your mood has been unusually high, happy, or cheerful?" },
+    { "question_id": 2, "content": "Do you feel more self-confident or capable than usual — perhaps even superior to others?" },
+    { "question_id": 3, "content": "Do you feel you need less sleep than usual, or that you can function well with very little or no sleep?" },
+    { "question_id": 4, "content": "Do you find yourself talking more than usual, or feeling pressure to keep talking?" },
+    { "question_id": 5, "content": "Do you feel more active, energetic, or restless — taking on more tasks or being unable to sit still?" }
+  ]
+}
